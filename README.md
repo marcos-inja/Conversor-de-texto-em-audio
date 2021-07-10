@@ -1,5 +1,5 @@
 # Conversor de texto em voz
-Um simples converde texto em voz feito usando a biblioteca pyttsx3 do python.
+Um simples conversor texto em voz feito usando a biblioteca pyttsx3 do python.
 
 ## Requisitos
 Ter o pyttsx3 instalado
